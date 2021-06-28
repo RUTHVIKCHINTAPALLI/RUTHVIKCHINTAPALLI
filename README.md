@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RUTHVIKCHINTAPALLI
-- 👀 I’m interested in FULL STACK WEB DEVELOPMENT / DATA SCIENCE
-- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT / DATA SCIENCE
+- 👀 I’m interested in FULL STACK WEB DEVELOPMENT / MACHINE LEARNING
+- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT / MACHINE LEARNING
 - 💞️ I’m looking to collaborate on - Available on Request
 - 📫 How to reach me - ruthvik2022@outlook.com
 - Skills - Python , R-programming , FULL STACK WEBDEVELOPMENT , REACT , JAVASCRIPT , ANGULAR ,NODE.JS , MONGODB
